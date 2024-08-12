@@ -1,0 +1,23 @@
+CAR DEVELOPMENT PROJECT
+Requirements:
+You need to build a basic structure of the car and then upload it github
+
+Assigned to:
+Tamim
+
+****************Tamim****************
+1-create a project
+2-write down the code
+3-create a local git Repo:
+                         -Decide the location of the project --> Project Folder -->where you have all the necessary files
+                         -Navigate the terminal in the right folder --> a.right click on project folder --> open in explorer/finder (
+                                                                        b. windows --> go inside the project --> right click --> open gitbash
+                                                                        c. open terminal bash at folder
+
+4-pwd  --> to confirm you're on the right location
+5-git init --> to create the repo
+6-git add . --> add to staging area
+7- git commit -m "message" --> to make a commit in the repo
+
+
+
